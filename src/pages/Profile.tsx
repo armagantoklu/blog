@@ -2,7 +2,7 @@ import React from "react";
 const Profile = () => {
     return (
         <div>
-            Profile
+            Profile1 add commit from armagan
         </div>
     )
 }
